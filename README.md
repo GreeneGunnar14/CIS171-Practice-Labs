@@ -10,8 +10,10 @@ Office location: ARC313 (library, third floor)
 
 Office Hours:
 
-* Wednesday 1:30pm to 3:00pm & 5:00pm to 6:00pm
+* Wednesday 1:30pm to 3:00pm
 
 * Thursday 4:00pm to 6:00pm
+
+* Friday 9:00am to 10:00am
 
 **Bryce Greene** 
