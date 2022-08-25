@@ -4,14 +4,14 @@
 
 '''
 Task 1
-Create a list called card_backs that contains 9 of these strings: '[]'
+Create a list called card_displays that contains 9 of these strings: '[]'
 '''
 
 #Your code goes here
 
 '''
 Task 2
-Create a list called card_fronts that contains 9 different single characters
+Create a list called card_values that contains 9 unique single characters
 Make sure they are all string type variables
 '''
   
@@ -22,7 +22,7 @@ for _ in range(2):
   
   '''
   Task 3
-  Use loops to display all nine card backs in a 3x3 grid
+  Use loops to display all nine card displays in a 3x3 grid
   '''
   
   #Your code goes here
@@ -36,14 +36,19 @@ for _ in range(2):
   
   '''
   Task 5
-  
+  Calculate the index of the card the user selected
   '''
   
   #Your code goes here
   
   '''
   Task 6
-  
+  Use the calculated index to set the selected cards display to be its value
   '''
   
   #Your code goes here
+
+'''
+Bonus
+Increase the number of times the for loop repeats and add the ability for the user to turn cards back over to display '[]' again
+'''
