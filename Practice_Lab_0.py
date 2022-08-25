@@ -19,7 +19,7 @@ Task 3
 Using the list below, print out each element of the array on a separate line
 '''
 
-countdown = ['3', '2, '1, 'GO!!']
+countdown = ['3', '2', '1', 'GO!!']
 #Your code goes here
 
 '''
