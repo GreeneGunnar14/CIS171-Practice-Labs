@@ -43,5 +43,5 @@ Using the list below, create a grid with the same dimensions as the grid from ta
 Hint: Use list indexing and loops to complete this in the fewest lines of code possible
 '''
 
-character_list = ['a', '!', 'y', '(', 'X', '*', '&', '9', '#', '^', 'J', 'U', 'k', '8', '?', '>', '<', '1', '%']
+character_list = ['a', '!', 'y', '(', 'X', '*', '&', '9', '#', '^', 'J', 'U', 'k', '8', '?', '>', '<', '1', '%', ':']
 #Your code goes here
