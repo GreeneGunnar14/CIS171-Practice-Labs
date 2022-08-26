@@ -51,4 +51,6 @@ for _ in range(2):
 '''
 Bonus
 Increase the number of times the for loop repeats and add the ability for the user to turn cards back over to display '[]' again
+and/or
+"Shuffle" the cards so that they are in a different order each time the program is run
 '''
